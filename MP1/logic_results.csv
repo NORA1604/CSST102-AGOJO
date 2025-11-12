@@ -1,0 +1,17 @@
+Timestamp,Student Name,Rule,Result
+2025-09-05 11:53:59,John Smith,Attendance Rule,Satisfied
+2025-09-05 11:54:08,John Smith,Grading Rule,Satisfied
+2025-09-05 11:54:13,John Smith,Login Rule,Access Granted
+2025-09-05 11:54:20,John Smith,Bonus Rule,Satisfied
+2025-09-05 11:54:40,John Smith,Lunch Rule,Denied
+2025-09-05 11:55:08,Joshua O'Brien,Attendance Rule,Satisfied
+2025-09-05 11:55:16,Joshua O'Brien,Grading Rule,Satisfied
+2025-09-05 11:55:22,Joshua O'Brien,Bonus Rule,Satisfied
+2025-09-05 11:55:26,Joshua O'Brien,Bonus Rule,Satisfied
+2025-09-05 11:55:30,Joshua O'Brien,Lunch Rule,Granted
+2025-09-05 11:55:47,Leos Klein,Attendance Rule,Violated
+2025-09-05 11:56:04,Leos Klein,Grading Rule,Satisfied
+2025-09-05 11:56:08,Leos Klein,Login Rule,Access Granted
+2025-09-05 11:56:11,Leos Klein,Bonus Rule,Satisfied
+2025-09-05 11:56:18,Leos Klein,Lunch Rule,Denied
+2025-09-05 12:06:52,Joshua O'Brien,Login Rule,Access Granted
